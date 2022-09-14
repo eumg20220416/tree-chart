@@ -34,4 +34,10 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 }
+.node .person {
+  vertical-align: top;
+}
+.node .person .name {
+  height: auto !important;
+}
 </style>
